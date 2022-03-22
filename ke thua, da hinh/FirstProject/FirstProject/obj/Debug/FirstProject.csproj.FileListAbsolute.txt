@@ -1,0 +1,7 @@
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
