@@ -1,0 +1,30 @@
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\bin\Debug\PhamTriDat.exe.config
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\bin\Debug\PhamTriDat.exe
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\bin\Debug\PhamTriDat.pdb
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.csproj.AssemblyReference.cache
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.Properties.Resources.resources
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.baitap1.resources
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.csproj.GenerateResource.cache
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.csproj.CoreCompileInputs.cache
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.exe
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.pdb
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap2.resources
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap3.resources
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap4.resources
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap5.resources
+C:\Users\dat\source\repos\PhamTriDat\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap6.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\bin\Debug\PhamTriDat.exe.config
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\bin\Debug\PhamTriDat.exe
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\bin\Debug\PhamTriDat.pdb
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.csproj.AssemblyReference.cache
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.Properties.Resources.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.baitap1.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap2.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap3.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap4.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap5.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.Solution.baitap6.resources
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.csproj.GenerateResource.cache
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.csproj.CoreCompileInputs.cache
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.exe
+C:\Users\dat\source\repos\Thuc hanh 4\PhamTriDat\obj\Debug\PhamTriDat.pdb
