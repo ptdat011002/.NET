@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace PhamTriDat.solution
 {
     static class Program
     {
@@ -16,9 +16,13 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            // Application.Run(new Form1());
-            Application.Run(new Form2());
-
+            // Application.Run(new bai1.DangNhap());
+            // Application.Run(new bai2.CongDan());
+            // Application.Run(new bai3.TimKiem());
+            // Application.Run(new bai4.BeNgoan());
+            // Application.Run(new bai5.Loc());
+            // Application.Run(new bai6.SanPham());
+            Application.Run(new bai7.SanPham());
         }
     }
 }
