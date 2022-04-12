@@ -27,7 +27,6 @@ namespace kiemtra
         {
             getData();
         }
-
         public void getData()
         {
             try
@@ -41,11 +40,11 @@ namespace kiemtra
                 while (rd.Read())
                 {
                     simthe obj = new simthe();
-                    obj.Id = (string)rd["ID"];
-                    obj.Sosim = (string)rd["sosim"];
-                    obj.Mangid = (string)rd["mangID"];
-                    obj.Ngaykichhoat = (DateTime)rd["ngaykichhoat"];
-                    obj.Ngayhethan = (DateTime)rd["ngayhethan"];
+                    obj.ID = (string)rd["ID"];
+                    obj.SoSim = (string)rd["sosim"];
+                    obj.MangID = (string)rd["mangID"];
+                    obj.NgayKichHoat = (DateTime)rd["ngaykichhoat"];
+                    obj.NgayHetHan = (DateTime)rd["ngayhethan"];
                     list.Add(obj);
                 }
                 conn.Close();
@@ -77,7 +76,7 @@ namespace kiemtra
                 {
                     MessageBox.Show("thêm thất bại");
                 }
-
+                
                 conn.Close();
 
                 getData();

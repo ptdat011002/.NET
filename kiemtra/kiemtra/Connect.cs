@@ -12,7 +12,8 @@ namespace kiemtra
     {
         public SqlConnection connection()
         {
-            string con_str = $"Data Source = DESKTOP-3IU0BFP\\SQLEXPRESS ; Initial Catalog = simthe ; Integrated Security = SSPI";
+            // string con_str = $"Data Source = DESKTOP-3IU0BFP\\SQLEXPRESS ; Initial Catalog = simthe ; Integrated Security = SSPI";
+            string con_str = $"Data Source = DESKTOP-3IU0BFP\\SQLEXPRESS ; Initial Catalog = sanbay ; Integrated Security = SSPI";
             SqlConnection conn = new SqlConnection(con_str);
             return conn;
         }
