@@ -1,0 +1,13 @@
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\bin\Debug\netcoreapp3.1\KT.exe
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\bin\Debug\netcoreapp3.1\KT.deps.json
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\bin\Debug\netcoreapp3.1\KT.runtimeconfig.json
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\bin\Debug\netcoreapp3.1\KT.runtimeconfig.dev.json
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\bin\Debug\netcoreapp3.1\KT.dll
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\bin\Debug\netcoreapp3.1\KT.pdb
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.AssemblyInfo.cs
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.dll
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.pdb
+C:\Users\phamt\Desktop\LTHT\doc_file\CT1\obj\Debug\netcoreapp3.1\KT.genruntimeconfig.cache

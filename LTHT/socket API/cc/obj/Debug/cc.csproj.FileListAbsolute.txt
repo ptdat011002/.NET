@@ -1,0 +1,14 @@
+C:\Users\Vanitas\source\repos\cc\cc\bin\Debug\cc.exe.config
+C:\Users\Vanitas\source\repos\cc\cc\bin\Debug\cc.exe
+C:\Users\Vanitas\source\repos\cc\cc\bin\Debug\cc.pdb
+C:\Users\Vanitas\source\repos\cc\cc\obj\Debug\cc.csproj.AssemblyReference.cache
+C:\Users\Vanitas\source\repos\cc\cc\obj\Debug\cc.csproj.CoreCompileInputs.cache
+C:\Users\Vanitas\source\repos\cc\cc\obj\Debug\cc.exe
+C:\Users\Vanitas\source\repos\cc\cc\obj\Debug\cc.pdb
+C:\Users\phamt\Desktop\LTHT\cc\cc\bin\Debug\cc.exe.config
+C:\Users\phamt\Desktop\LTHT\cc\cc\bin\Debug\cc.exe
+C:\Users\phamt\Desktop\LTHT\cc\cc\bin\Debug\cc.pdb
+C:\Users\phamt\Desktop\LTHT\cc\cc\obj\Debug\cc.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\LTHT\cc\cc\obj\Debug\cc.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\LTHT\cc\cc\obj\Debug\cc.exe
+C:\Users\phamt\Desktop\LTHT\cc\cc\obj\Debug\cc.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vanitas\source\repos\cc\cc2\bin\Debug\cc2.exe.config
+C:\Users\Vanitas\source\repos\cc\cc2\bin\Debug\cc2.exe
+C:\Users\Vanitas\source\repos\cc\cc2\bin\Debug\cc2.pdb
+C:\Users\Vanitas\source\repos\cc\cc2\obj\Debug\cc2.csproj.AssemblyReference.cache
+C:\Users\Vanitas\source\repos\cc\cc2\obj\Debug\cc2.csproj.CoreCompileInputs.cache
+C:\Users\Vanitas\source\repos\cc\cc2\obj\Debug\cc2.exe
+C:\Users\Vanitas\source\repos\cc\cc2\obj\Debug\cc2.pdb

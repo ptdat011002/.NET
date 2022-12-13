@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhamTriDat", "PhamTriDat\PhamTriDat.csproj", "{A8BA1201-4095-4289-BA24-5FDEA6DE3D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA1201-4095-4289-BA24-5FDEA6DE3D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1201-4095-4289-BA24-5FDEA6DE3D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1201-4095-4289-BA24-5FDEA6DE3D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1201-4095-4289-BA24-5FDEA6DE3D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3C01D8-1B89-4576-BBF0-73C65174C030}
+	EndGlobalSection
+EndGlobal
