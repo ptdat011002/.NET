@@ -1,0 +1,7 @@
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\bin\Debug\de01-ct1.exe.config
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\bin\Debug\de01-ct1.exe
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\bin\Debug\de01-ct1.pdb
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\obj\Debug\de01.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\obj\Debug\de01.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\obj\Debug\de01-ct1.exe
+C:\Users\phamt\Desktop\LTHT\de01-ct1\de01-ct1\obj\Debug\de01-ct1.pdb

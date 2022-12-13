@@ -1,0 +1,15 @@
+C:\Users\let02\source\repos\de07\de07\bin\Debug\de07.exe.config
+C:\Users\let02\source\repos\de07\de07\bin\Debug\de07.exe
+C:\Users\let02\source\repos\de07\de07\bin\Debug\de07.pdb
+C:\Users\let02\source\repos\de07\de07\obj\Debug\de07.csproj.AssemblyReference.cache
+C:\Users\let02\source\repos\de07\de07\obj\Debug\de07.csproj.SuggestedBindingRedirects.cache
+C:\Users\let02\source\repos\de07\de07\obj\Debug\de07.csproj.CoreCompileInputs.cache
+C:\Users\let02\source\repos\de07\de07\obj\Debug\de07.exe
+C:\Users\let02\source\repos\de07\de07\obj\Debug\de07.pdb
+C:\Users\phamt\Desktop\LTHT\de07\de07\bin\Debug\de07.exe.config
+C:\Users\phamt\Desktop\LTHT\de07\de07\bin\Debug\de07.exe
+C:\Users\phamt\Desktop\LTHT\de07\de07\bin\Debug\de07.pdb
+C:\Users\phamt\Desktop\LTHT\de07\de07\obj\Debug\de07.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\LTHT\de07\de07\obj\Debug\de07.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\LTHT\de07\de07\obj\Debug\de07.exe
+C:\Users\phamt\Desktop\LTHT\de07\de07\obj\Debug\de07.pdb
